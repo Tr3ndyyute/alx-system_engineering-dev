@@ -7,3 +7,5 @@ ls -la . ../boot
 =======
 la - la . ../boot
 >>>>>>> 4d370db2dcca6f42bdeb2eafaaf2662df5f82eeb
+#!/bin/bash
+ls -la . ../boot
